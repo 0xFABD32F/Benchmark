@@ -4,12 +4,12 @@ This project uses a dual licensing model:
 CODE LICENSE (MIT License)
 ================================================================================
 
-The software implementations (all .cpp, .h files in src/) are licensed under 
+The software implementations (all .cpp files) are licensed under 
 the MIT License:
 
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2025 [SOUKARI Abdourahmane]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,7 +33,7 @@ SOFTWARE.
 RESEARCH PAPER LICENSE (Creative Commons Attribution 4.0)
 ================================================================================
 
-The research paper, documentation, and written content (paper.tex, paper.pdf, 
+The research paper, documentation, and written content (paper.pdf, 
 README.md, and all documentation) are licensed under Creative Commons 
 Attribution 4.0 International (CC BY 4.0).
 
@@ -53,9 +53,9 @@ CITATION
 
 If you use this work in academic research, please cite:
 
-@article{tree_benchmark_2024,
+@article{tree_benchmark_2025,
   title={Comparative Performance Analysis of Tree-Based Data Structures},
-  author={[Your Name]},
-  year={2024},
-  url={https://github.com/yourusername/tree-benchmark}
+  author={[SOUKARI Abdourahmane]},
+  year={2025},
+  url={https://github.com/0xFABD32F/Benchmark}
 }
