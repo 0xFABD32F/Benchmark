@@ -76,11 +76,11 @@ std::map       █████████████████████�
 ## 🏗️ Project Structure
 ```
 📦 Benchmark
-├── 📄 README.md                              # This file
-├── 📄 Benchmarking paper.pdf                 # Compiled research paper
-│── 🔴 RBT.cpp                               # Custom RBT implementation
-│── 🌲 Benchmark.cpp                         # BST + STL benchmarks
-└── 📝 bigtext.txt                          # Test dataset
+├── 📄 README.md                 # This file
+├── 📄 paper.pdf                 # Compiled research paper
+│── 🔴 RBT.cpp                   # Custom RBT implementation
+│── 🌲 Benchmark.cpp             # BST + STL benchmarks
+└── 📝 bigtext.txt              # Test dataset
 ```
 
 ---
@@ -174,10 +174,10 @@ Despite both using Red-Black Tree structure, our custom implementation is **7.72
 ### Compile and Run
 ```bash
 # Compile Red-Black Tree benchmark
-g++ -std=c++17 -O2 src/red_black_tree.cpp -o rbt_benchmark
+g++ -std=c++17 -O2 RBT.cpp -o rbt_benchmark
 
 # Compile BST benchmark
-g++ -std=c++17 -O2 src/bst_benchmark.cpp -o bst_benchmark
+g++ -std=c++17 -O2 Benchmark.cpp -o bst_benchmark
 
 # Run benchmarks
 ./rbt_benchmark
