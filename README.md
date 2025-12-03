@@ -372,8 +372,6 @@ If you use this work in your research, please cite:
 
 ### ⭐ Star this repository if you found it helpful!
 
-**Made with ❤️ for Computer Science Education**
-
 [⬆ Back to Top](#-tree-data-structures-performance-benchmark)
 
 </div>
