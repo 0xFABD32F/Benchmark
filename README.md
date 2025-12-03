@@ -359,7 +359,7 @@ For questions or discussions about this research:
 
 If you use this work in your research, please cite:
 ```bibtex
-@article{tree_benchmark_2024,
+@article{tree_benchmark_2025,
   title={Comparative Performance Analysis of Tree-Based Data Structures: Red-Black Trees vs. Unbalanced Binary Search Trees and Standard Library Containers},
   author={SOUKARI Abdourahmane},
   year={2025}
