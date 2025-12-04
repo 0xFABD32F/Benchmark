@@ -7,7 +7,7 @@
 
 > **A comprehensive empirical analysis comparing Red-Black Trees, Unbalanced BSTs, and C++ STL containers**
 
-## 📊 Quick Results(using 10 million word dataset)
+## 📊 Quick Results (using 10 million words dataset)
 
 Our benchmarks reveal surprising performance characteristics across five data structures:
 
